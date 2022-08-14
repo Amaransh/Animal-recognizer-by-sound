@@ -1,0 +1,28 @@
+body
+{
+    font-family: 'Special elite', cursive;
+    background: aquamarine;
+    text-align: center;
+}
+
+.main_div button
+{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30;
+    width: 130;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+footer
+{
+    position: fixed;
+    color: gold;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(172, 47, 255);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px greenyellow ;
+}
